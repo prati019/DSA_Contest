@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class ConstructTreeFromPostInOrder {
+public class PostInOrder {
 
     static class TreeNode {
         int val;
