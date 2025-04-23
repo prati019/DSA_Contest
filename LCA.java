@@ -1,7 +1,7 @@
 
 import java.util.*;
 
-public class question_3 {
+public class LCA {
     static class Node {
         int data;
         Node left, right;
